@@ -3,7 +3,7 @@
 ![excel_financial_dashboard.gif](Financial_Dashboard/images/excel_financial_dashboard.gif)
 
 ## ✨ Introduction  
-This project showcases a **fully automated, professional-grade financial reporting system** built in Excel. It includes an Income Statement, Balance Sheet, and an interactive Dashboard—designed exactly like the reports used by finance teams and business executives.  
+This project showcases a **fully automated, professional-grade financial reporting system** built in Excel. It includes an Income Statement, Balance Sheet, and an interactive Dashboard; designed exactly like the reports used by finance teams and business executives.  
 As a data analyst, this project represents my ability to clean raw financial data, model it with Power Pivot, write DAX measures, and design dashboards that drive business decisions.
 
 ### 🔍 Project Overview  
