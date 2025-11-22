@@ -10,3 +10,6 @@ My final dashboard is in [Excel_financial_dashboard.xlsx](Financial_Dashboard/Ex
 ## Dashboard Build
 ### KPIs
 ![KPIs](Financial_Dashboard/images/dashbaord_kpis.png)
+### Revenue vs Expense Trend
+“Which month performed best?”
+![dashboard_chart1](Financial_Dashboard/images/dashboard_chart1.png)
